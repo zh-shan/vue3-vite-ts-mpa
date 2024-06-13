@@ -1,0 +1,15 @@
+*.md
+*.woff
+*.woff2
+*.ttf
+.vscode
+.idea
+.husky
+node_modules
+dist
+public
+resources
+test
+build
+src/assets
+src/icons
